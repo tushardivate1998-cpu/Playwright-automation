@@ -1,18 +1,16 @@
-# Playwright Automation Framework
+# Playwright Automation - Tushar Divate
 
-Automated End-to-End tests using Playwright + JavaScript.
+## 20 Days Journey - Complete!
+- Day 1-5: Locators, Login, POM Basics
+- Day 6-10: Dropdown, Alerts, Frames, Tabs
+- Day 11-15: Mouse, Keyboard, Screenshot, Report
+- Day 16-17: POM + Data Driven Testing
+- Day 18-19: API Testing + Hybrid Testing
+- Day 20: Final - README + CI/CD Ready
 
-## What I Tested
-- **Day 1:** Login Test - Valid login on SauceDemo
-- **Day 2:** Add to Cart Test - Add product & verify cart badge
-- **Day 3:** Complete Checkout Flow - Login -> Add to Cart -> Checkout -> Order Success
+## How To Run
+npx playwright test --project=chromium
+npx playwright show-report
 
-## Tech Stack
--Playwight
--JavaScript (Node.js)
--GitHub Actions (CI)
-
-##How to Run
-...bash
-npm install
-npx playwright test
+## Skills
+Playwright | JavaScript | API Testing | POM | Data Driven | GitHub
